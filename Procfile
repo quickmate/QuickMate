@@ -1,1 +1,1 @@
-python quickmate
+python quickmate_bot.py
